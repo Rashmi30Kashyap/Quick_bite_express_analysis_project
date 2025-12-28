@@ -124,8 +124,6 @@ Business-driven insights and KPI design
 Clean and intuitive dashboard UI/UX
 
 ## Dashboard Images
-<img width="1435" height="779" alt="img _1" src="https://github.com/user-attach<img width="1401" height="784" alt="Screenshot 2025-12-29 at 12 26 18 AM" src="https://github.com/user-attachments/assets/1052e822-656f-4571-a504-71830f4eaa52" />
-ments/assets/71ccae84-7aac-418f-ac06-0e47fdd35aa0" />
 
 <img width="1397" height="783" alt="img_2" src="https://github.com/user-attachments/assets/6fc6ab35-ea57-418d-aa3c-04497ae1747f" />
 
