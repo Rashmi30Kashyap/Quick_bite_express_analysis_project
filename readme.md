@@ -1,20 +1,20 @@
-QuickBite Express – Crisis Impact Analysis (Power BI Project)
-📌 Project Overview
+## QuickBite Express – Crisis Impact Analysis (Power BI Project)
+### Project Overview
 
-This Power BI project analyzes how an operational crisis impacted QuickBite Express, a food-delivery platform operating across major Indian cities.
-The dataset includes Pre-Crisis and Crisis periods, enabling comparative analysis of customer behavior, delivery performance, and restaurant trends.
+This Power BI project analyzes the impact of an operational crisis on QuickBite Express, a food-delivery platform operating across major Indian cities.
+The analysis compares Pre-Crisis and Crisis periods to understand changes in customer behavior, restaurant performance, delivery efficiency, and revenue trends.
 
-The goal was to diagnose impact areas, identify business risks, and uncover actionable recovery insights.
+The goal of this project is to identify business risk areas, quantify losses, and generate actionable insights to support recovery planning.
 
-🗂️ Dataset Summary
+### Dataset Summary
 
-The dataset contains two time periods:
+The dataset is divided into two phases:
 
 Pre-Crisis Data
 
 Crisis Data
 
-Each includes metrics for:
+#### Each phase includes information related to:
 
 Customers
 
@@ -28,63 +28,58 @@ Cancellations & Refunds
 
 Ratings & Complaints
 
-Revenue & City-level Performance
+Revenue
 
-🛠️ Tech Stack
+City-wise Performance (India)
+
+Tech Stack
 
 Power BI
 
 Power Query
 
-DAX (20+ Measures)
+DAX (20+ measures)
 
 Data Modeling (Star Schema)
 
-Excel / CSV for Preprocessing
+Excel / CSV
 
-📊 Key Insights
-1️⃣ Customer Insights
+### Key Insights
+### Customer Insights
 
-Significant drop in repeat customers and order frequency during the crisis.
+Significant decline in repeat customers and order frequency during the crisis.
 
-Spike in cancellation rates, especially in metro cities.
+Increase in order cancellations, especially in metro cities.
 
-Average rating fell due to delivery delays and service issues.
+Average customer ratings dropped due to delivery delays and service issues.
 
-2️⃣ Restaurant Insights
+### Restaurant Insights
 
-Total active restaurants decreased in the crisis phase.
+Decrease in active partner restaurants during the crisis.
 
-Partner restaurants reported lower fulfillment rates.
+Lower order fulfillment rates reported by restaurants.
 
-Certain cuisines (e.g., Fast Food, North Indian) experienced heavier demand fluctuation.
+High demand fluctuations in Fast Food and North Indian cuisines.
 
-3️⃣ Order & Delivery Insights
+### Order & Delivery Insights
 
-Delivery delays increased sharply due to shortage of delivery partners.
+Delivery delays increased sharply due to delivery partner shortages.
 
-Crisis period showed higher lost orders and refund volumes.
+Higher volume of lost orders and refunds.
 
-Evening peak hour performance was most affected.
+Evening peak hours were most affected during the crisis.
 
-4️⃣ Revenue Insights
+### Revenue Insights
 
-Total revenue dropped across cities.
+Overall revenue declined across cities.
 
-Cities like Mumbai & Delhi showed the largest decline post-crisis.
+Mumbai and Delhi experienced the highest revenue drop.
 
-High-value orders reduced due to customer trust issues.
+High-value orders reduced, indicating customer trust issues.
 
-🧠 What This Project Demonstrates
+### Dashboard Features
 
-✔ Ability to build complete Power BI solutions
-✔ Expertise in DAX, data modeling, and KPI design
-✔ Real-world crisis analytics scenario
-✔ Clean UI/UX dashboard with actionable insights
-
-📁 Dashboard Features
-
-Crisis vs Pre-crisis toggle
+Pre-Crisis vs Crisis comparison toggle
 
 KPI summary cards
 
@@ -98,13 +93,13 @@ Delivery partner impact analysis
 
 Revenue and order trend visualizations
 
-🚀 How to Use
+### How to Use
 
-Download the PBIX file
+Download the Power BI .pbix file
 
 Open using Power BI Desktop (latest version)
 
-Explore the pages:
+Navigate through the report pages:
 
 Overview
 
@@ -115,3 +110,15 @@ Restaurant Analysis
 Delivery Performance
 
 Revenue Insights
+
+### What This Project Demonstrates
+
+End-to-end Power BI solution development
+
+Strong DAX and data modeling skills
+
+Real-world crisis impact analysis
+
+Business-driven insights and KPI design
+
+Clean and intuitive dashboard UI/UX
